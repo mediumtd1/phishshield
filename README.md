@@ -9,10 +9,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
-
+[
 ## 🔴 Live Demo
 
-> **[▶ Launch PhishShield]([https://phishshield-woad.vercel.app/])**
+> **[▶ Launch PhishShield]([https://phishshield-woad.vercel.app/])**](https://phishshield-woad.vercel.app/)
 
 ---
 
