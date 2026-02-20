@@ -12,7 +12,7 @@
 
 ## 🔴 Live Demo
 
-> **[▶ Launch PhishShield]([https://mediumtd1.github.io/phishshield](https://phishshield-woad.vercel.app/))**
+> **[▶ Launch PhishShield]([https://phishshield-woad.vercel.app/])**
 
 ---
 
