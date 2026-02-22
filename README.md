@@ -12,7 +12,7 @@
 [
 ## 🔴 Live Demo
 
-> **[▶ Launch PhishShield]([https://phishshield-woad.vercel.app/])**](https://phishshield-woad.vercel.app/)
+> **[▶ Launch PhishShield](https://phish-shield-p.netlify.app/)**
 
 ---
 
